@@ -1,0 +1,25 @@
+-- Assignment 1
+WITH MEMBER Mistakes AS
+[Measures].[Answers Count] - [Measures].[IsCorrect]
+SELECT {Mistakes} ON COLUMNS,
+NONEMPTY(GENERATE([User].[RegionCountryContinent].[Country Name], TOPCOUNT(([User].[RegionCountryContinent].CURRENTMEMBER, 
+[User].[Userid].[Userid]),1,Mistakes))) ON ROWS
+FROM [Answers]
+
+-- Assignment 2
+WITH MEMBER MaxCorrect AS
+MAX(([Subject].[Subjectid].CURRENTMEMBER, [User].[Userid].[Userid]), [Measures].[IsCorrect])
+SELECT {MaxCorrect} ON COLUMNS,
+NONEMPTY(FILTER(([Subject].[Subjectid].[Subjectid], [User].[Userid].[Userid]), [Measures].[IsCorrect] = MaxCorrect)) ON ROWS
+FROM [Answers]
+
+-- Assignment 3
+WITH MEMBER AvgCorrect AS
+([User].[Userid].[All], [User].[RegionCountryContinent].CURRENTMEMBER.PARENT.PARENT.PARENT, [Measures].[IsCorrect]) /
+([User].[Userid].[All], [User].[RegionCountryContinent].CURRENTMEMBER.PARENT.PARENT.PARENT, [Measures].[NumberOfUsers])
+MEMBER Ratio AS
+[Measures].[IsCorrect] / AvgCorrect
+SELECT {[Measures].[IsCorrect], AvgCorrect, Ratio} ON COLUMNS,
+NONEMPTY(GENERATE([User].[RegionCountryContinent].[Continent], TOPCOUNT(([User].[RegionCountryContinent].CURRENTMEMBER, 
+[User].[Userid].[Userid]),1,Ratio))) ON ROWS
+FROM [Answers]

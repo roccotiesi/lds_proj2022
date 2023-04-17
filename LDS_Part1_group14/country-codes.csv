@@ -1,0 +1,250 @@
+﻿ISO3166-1-Alpha-4,Region Name,Continent,CLDR display name
+tw,,AS,Taiwan
+af,Asia,AS,Afghanistan
+al,Europe,EU,Albania
+dz,Africa,AF,Algeria
+as,Oceania,OC,American Samoa
+ad,Europe,EU,Andorra
+ao,Africa,AF,Angola
+ai,Americas,NA,Anguilla
+aq,,AN,Antarctica
+ag,Americas,NA,Antigua & Barbuda
+ar,Americas,SA,Argentina
+am,Asia,AS,Armenia
+aw,Americas,NA,Aruba
+au,Oceania,OC,Australia
+at,Europe,EU,Austria
+az,Asia,AS,Azerbaijan
+bs,Americas,NA,Bahamas
+bh,Asia,AS,Bahrain
+bd,Asia,AS,Bangladesh
+bb,Americas,NA,Barbados
+by,Europe,EU,Belarus
+be,Europe,EU,Belgium
+bz,Americas,NA,Belize
+bj,Africa,AF,Benin
+bm,Americas,NA,Bermuda
+bt,Asia,AS,Bhutan
+bo,Americas,SA,Bolivia
+bq,Americas,NA,Caribbean Netherlands
+ba,Europe,EU,Bosnia
+bw,Africa,AF,Botswana
+bv,Americas,AN,Bouvet Island
+br,Americas,SA,Brazil
+io,Africa,AS,British Indian Ocean Territory
+vg,Americas,NA,British Virgin Islands
+bn,Asia,AS,Brunei
+bg,Europe,EU,Bulgaria
+bf,Africa,AF,Burkina Faso
+bi,Africa,AF,Burundi
+cv,Africa,AF,Cape Verde
+kh,Asia,AS,Cambodia
+cm,Africa,AF,Cameroon
+ca,Americas,NA,Canada
+ky,Americas,NA,Cayman Islands
+cf,Africa,AF,Central African Republic
+td,Africa,AF,Chad
+cl,Americas,SA,Chile
+cn,Asia,AS,China
+hk,Asia,AS,Hong Kong
+mo,Asia,AS,Macau
+cx,Oceania,OC,Christmas Island
+cc,Oceania,AS,Cocos (Keeling) Islands
+co,Americas,SA,Colombia
+km,Africa,AF,Comoros
+cg,Africa,AF,Congo - Brazzaville
+ck,Oceania,OC,Cook Islands
+cr,Americas,NA,Costa Rica
+hr,Europe,EU,Croatia
+cu,Americas,NA,Cuba
+cw,Americas,NA,Curaçao
+cy,Asia,EU,Cyprus
+cz,Europe,EU,Czechia
+ci,Africa,AF,Côte d’Ivoire
+kp,Asia,AS,North Korea
+cd,Africa,AF,Congo - Kinshasa
+dk,Europe,EU,Denmark
+dj,Africa,AF,Djibouti
+dm,Americas,NA,Dominica
+do,Americas,NA,Dominican Republic
+ec,Americas,SA,Ecuador
+eg,Africa,AF,Egypt
+sv,Americas,NA,El Salvador
+gq,Africa,AF,Equatorial Guinea
+er,Africa,AF,Eritrea
+ee,Europe,EU,Estonia
+sz,Africa,AF,Eswatini
+et,Africa,AF,Ethiopia
+fk,Americas,SA,Falkland Islands
+fo,Europe,EU,Faroe Islands
+fj,Oceania,OC,Fiji
+fi,Europe,EU,Finland
+fr,Europe,EU,France
+gf,Americas,SA,French Guiana
+pf,Oceania,OC,French Polynesia
+tf,Africa,AN,French Southern Territories
+ga,Africa,AF,Gabon
+gm,Africa,AF,Gambia
+ge,Asia,AS,Georgia
+de,Europe,EU,Germany
+gh,Africa,AF,Ghana
+gi,Europe,EU,Gibraltar
+gr,Europe,EU,Greece
+gl,Americas,NA,Greenland
+gd,Americas,NA,Grenada
+gp,Americas,NA,Guadeloupe
+gu,Oceania,OC,Guam
+gt,Americas,NA,Guatemala
+gg,Europe,EU,Guernsey
+gn,Africa,AF,Guinea
+gw,Africa,AF,Guinea-Bissau
+gy,Americas,SA,Guyana
+ht,Americas,NA,Haiti
+hm,Oceania,AN,Heard & McDonald Islands
+va,Europe,EU,Vatican City
+hn,Americas,NA,Honduras
+hu,Europe,EU,Hungary
+is,Europe,EU,Iceland
+in,Asia,AS,India
+id,Asia,AS,Indonesia
+ir,Asia,AS,Iran
+iq,Asia,AS,Iraq
+ie,Europe,EU,Ireland
+im,Europe,EU,Isle of Man
+il,Asia,AS,Israel
+it,Europe,EU,Italy
+jm,Americas,NA,Jamaica
+jp,Asia,AS,Japan
+je,Europe,EU,Jersey
+jo,Asia,AS,Jordan
+kz,Asia,AS,Kazakhstan
+ke,Africa,AF,Kenya
+ki,Oceania,OC,Kiribati
+kw,Asia,AS,Kuwait
+kg,Asia,AS,Kyrgyzstan
+la,Asia,AS,Laos
+lv,Europe,EU,Latvia
+lb,Asia,AS,Lebanon
+ls,Africa,AF,Lesotho
+lr,Africa,AF,Liberia
+ly,Africa,AF,Libya
+li,Europe,EU,Liechtenstein
+lt,Europe,EU,Lithuania
+lu,Europe,EU,Luxembourg
+mg,Africa,AF,Madagascar
+mw,Africa,AF,Malawi
+my,Asia,AS,Malaysia
+mv,Asia,AS,Maldives
+ml,Africa,AF,Mali
+mt,Europe,EU,Malta
+mh,Oceania,OC,Marshall Islands
+mq,Americas,NA,Martinique
+mr,Africa,AF,Mauritania
+mu,Africa,AF,Mauritius
+yt,Africa,AF,Mayotte
+mx,Americas,NA,Mexico
+fm,Oceania,OC,Micronesia
+mc,Europe,EU,Monaco
+mn,Asia,AS,Mongolia
+me,Europe,EU,Montenegro
+ms,Americas,NA,Montserrat
+ma,Africa,AF,Morocco
+mz,Africa,AF,Mozambique
+mm,Asia,AS,Myanmar
+na,Africa,AF,Namibia
+nr,Oceania,OC,Nauru
+np,Asia,AS,Nepal
+nl,Europe,EU,Netherlands
+nc,Oceania,OC,New Caledonia
+nz,Oceania,OC,New Zealand
+ni,Americas,NA,Nicaragua
+ne,Africa,AF,Niger
+ng,Africa,AF,Nigeria
+nu,Oceania,OC,Niue
+nf,Oceania,OC,Norfolk Island
+mp,Oceania,OC,Northern Mariana Islands
+no,Europe,EU,Norway
+om,Asia,AS,Oman
+pk,Asia,AS,Pakistan
+pw,Oceania,OC,Palau
+pa,Americas,NA,Panama
+pg,Oceania,OC,Papua New Guinea
+py,Americas,SA,Paraguay
+pe,Americas,SA,Peru
+ph,Asia,AS,Philippines
+pn,Oceania,OC,Pitcairn Islands
+pl,Europe,EU,Poland
+pt,Europe,EU,Portugal
+pr,Americas,NA,Puerto Rico
+qa,Asia,AS,Qatar
+kr,Asia,AS,South Korea
+md,Europe,EU,Moldova
+ro,Europe,EU,Romania
+ru,Europe,EU,Russia
+rw,Africa,AF,Rwanda
+re,Africa,AF,Réunion
+bl,Americas,NA,St. Barthélemy
+sh,Africa,AF,St. Helena
+kn,Americas,NA,St. Kitts & Nevis
+lc,Americas,NA,St. Lucia
+mf,Americas,NA,St. Martin
+pm,Americas,NA,St. Pierre & Miquelon
+vc,Americas,NA,St. Vincent & Grenadines
+ws,Oceania,OC,Samoa
+sm,Europe,EU,San Marino
+st,Africa,AF,São Tomé & Príncipe
+sa,Asia,AS,Saudi Arabia
+sn,Africa,AF,Senegal
+rs,Europe,EU,Serbia
+sc,Africa,AF,Seychelles
+sl,Africa,AF,Sierra Leone
+sg,Asia,AS,Singapore
+sx,Americas,NA,Sint Maarten
+sk,Europe,EU,Slovakia
+si,Europe,EU,Slovenia
+sb,Oceania,OC,Solomon Islands
+so,Africa,AF,Somalia
+za,Africa,AF,South Africa
+gs,Americas,AN,South Georgia & South Sandwich Islands
+ss,Africa,AF,South Sudan
+es,Europe,EU,Spain
+lk,Asia,AS,Sri Lanka
+ps,Asia,AS,Palestine
+sd,Africa,AF,Sudan
+sr,Americas,SA,Suriname
+sj,Europe,EU,Svalbard & Jan Mayen
+se,Europe,EU,Sweden
+ch,Europe,EU,Switzerland
+sy,Asia,AS,Syria
+tj,Asia,AS,Tajikistan
+th,Asia,AS,Thailand
+mk,Europe,EU,North Macedonia
+tl,Asia,OC,Timor-Leste
+tg,Africa,AF,Togo
+tk,Oceania,OC,Tokelau
+to,Oceania,OC,Tonga
+tt,Americas,NA,Trinidad & Tobago
+tn,Africa,AF,Tunisia
+tr,Asia,AS,Turkey
+tm,Asia,AS,Turkmenistan
+tc,Americas,NA,Turks & Caicos Islands
+tv,Oceania,OC,Tuvalu
+ug,Africa,AF,Uganda
+ua,Europe,EU,Ukraine
+ae,Asia,AS,United Arab Emirates
+uk,Europe,EU,UK
+tz,Africa,AF,Tanzania
+um,Oceania,OC,U.S. Outlying Islands
+vi,Americas,NA,U.S. Virgin Islands
+us,Americas,NA,US
+uy,Americas,SA,Uruguay
+uz,Asia,AS,Uzbekistan
+vu,Oceania,OC,Vanuatu
+ve,Americas,SA,Venezuela
+vn,Asia,AS,Vietnam
+wf,Oceania,OC,Wallis & Futuna
+eh,Africa,AF,Western Sahara
+ye,Asia,AS,Yemen
+zm,Africa,AF,Zambia
+zw,Africa,AF,Zimbabwe
+ax,Europe,EU,Åland Islands
