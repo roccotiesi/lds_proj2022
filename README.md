@@ -1,5 +1,5 @@
 # Laboratory of Data Science | Project 
-### University of Pisa - A.Y. 2022-23
+### University of Pisa - AY 2022-23
 
 
 ## Authors
